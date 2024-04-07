@@ -11,8 +11,8 @@
   <img width="80%" alt="Coding" src="https://github.com/millenasunara/millenasunara/assets/148871283/85eb4752-6083-4dd0-9617-63bd0a3ca365">
 </p>
 
-
 <br/>
+
 <div align="center" width="100%">
   
 <img width="100%" height="2px" src="https://github.com/millenasunara/millenasunara/assets/148871283/17c91e09-0b6c-4c74-9a14-52dbcbd19307">
